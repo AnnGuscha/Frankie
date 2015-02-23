@@ -1,18 +1,19 @@
+
 0 rx
 1 tx
-2 bumper left
+2 bumper right
 3 bumper center
-4 bumper right
+4 bumper left
 5 
 6
 7
-8 servo
-9 servo
-10 motor1+
-11 motor1-
-12 motor2+
-13 motor2-
-a0 ir1
-a1 ir2
-a2 ir3
-a3 ir4
+8 servo right
+9 servo left
+10 motor left -
+11 motor left +
+12 motor right -
+13 motor right +
+a0 ir1 
+a1 ir2 right
+a2 ir3 center
+a3 ir4 left
