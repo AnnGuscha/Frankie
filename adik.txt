@@ -3,11 +3,11 @@
 2 bumper left
 3 bumper center
 4 bumper right
-5 motor1+
-6 motor1-
+5 motor right +
+6 motor right -
 7 echo
-8 motor2+
-9 motor2-
+8 motor left +
+9 motor left -
 10 servo
 11
 12 
