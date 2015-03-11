@@ -1,0 +1,21 @@
+0 rx
+1 tx
+2 bumper left
+3 bumper center
+4 bumper right
+5 motor right +
+6 motor right -
+7 echo
+8 motor left +
+9 motor left -
+10 servo
+11
+12
+13
+14 trig left
+15 trig center
+16 servo
+a0 trig right
+a1 ir1
+a2 ir2
+a3 ir3
